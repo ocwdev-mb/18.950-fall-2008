@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "9bed629e-ad46-f3d9-9242-08c48775d387",
+  "instructors": {
+    "content": [
+      "bc685657-74ac-1dda-c088-c754a415c138"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3f204e57-b1b6-8529-4d59-5b129fee7783",
+    "website": "18-950-differential-geometry-fall-2008"
+  },
+  "course_title": "Differential Geometry",
+  "course_description": "This course is an introduction to differential geometry. The course itself is mathematically rigorous, but still emphasizes concrete aspects of geometry, centered on the notion of curvature.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.950",
+  "course_image_thumbnail": {
+    "content": "a9d7680b-cd71-8b96-fc4f-fa06f1a86fc0",
+    "website": "18-950-differential-geometry-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "7929c21d-af7b-4e0a-9180-ffb9281ac1c2",
+  "site_short_id": "18.950-fall-2008",
+  "title": "Course Metadata"
+}
